@@ -28,7 +28,7 @@ def gcd():
 ```
 
 ## Output:
-![output](/GC-of-two-numbers.png)
+![GCD-of-two-numbers](https://github.com/Thilakeshwaran/GCD-of-two-numbers/assets/147473132/a420e06a-d6ce-441d-aee3-d27ceef433dc)
 
 
 ## Result:
